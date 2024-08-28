@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{E25F2AA8-3BA0-4D53-8651-D965836A14F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6FF3AD9B-A910-49E2-A834-69F2E1C4A6D3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Pictures\Screenshots\gamebg.png = ..\..\..\OneDrive\Pictures\Screenshots\gamebg.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Debug|x64.ActiveCfg = Debug|x64
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Debug|x64.Build.0 = Debug|x64
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Debug|x86.Build.0 = Debug|Win32
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Release|x64.ActiveCfg = Release|x64
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Release|x64.Build.0 = Release|x64
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Release|x86.ActiveCfg = Release|Win32
+		{E25F2AA8-3BA0-4D53-8651-D965836A14F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3C1463-95B1-4662-8C8A-514C77F1DA6A}
+	EndGlobalSection
+EndGlobal
